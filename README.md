@@ -1,2 +1,2 @@
-# amd-cpu-architecture
+# Advanced Parallel Processing
 A simple repository that includes a .doc paper and a link to a presentation.
